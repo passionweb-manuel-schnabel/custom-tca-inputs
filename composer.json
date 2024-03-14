@@ -2,7 +2,7 @@
     "name": "passionweb/custom-tca-inputs",
     "type": "typo3-cms-extension",
     "description": "Adds a custom TCA field with special rendering for JSON data. (TYPO3 CMS)",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "homepage": "https://www.passionweb.de",
     "authors": [
         {
